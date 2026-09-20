@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Large model weights (too big for GitHub, 100MB hard limit)
+# Re-generate by running notebooks/colab_teacher.ipynb
+results/checkpoints/teacher_out/
+
+# Copyrighted reference paper (cited in README instead, CC BY 4.0)
+paper/references/referencePaper.pdf
+
+# OS / editor junk
+.DS_Store

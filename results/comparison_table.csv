@@ -1,0 +1,2 @@
+model,params_M,size_MB,test_macro_F1,latency_ms_per_sample
+Student alone (no KD),1.205251,4.6,0.7084,1.308

@@ -1,0 +1,12 @@
+Best val macro-F1: 0.7046
+Test macro-F1: 0.7084
+
+              precision    recall  f1-score   support
+
+       CLEAN     0.8041    0.8526    0.8276       597
+   OFFENSIVE     0.5111    0.5495    0.5296       293
+        HATE     0.8448    0.7040    0.7680       348
+
+    accuracy                         0.7391      1238
+   macro avg     0.7200    0.7020    0.7084      1238
+weighted avg     0.7462    0.7391    0.7403      1238
